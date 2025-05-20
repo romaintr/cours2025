@@ -1,0 +1,57 @@
+/* style.css */
+body{
+  background: rgb(245,245,245);
+  color: green;
+  font-size: 25px;
+  font-family: Helvetica;
+}
+h1,h2{
+  font-family: "Share Tech","Roboto", Marr Sans,Arial,sans-serif;
+  color: #FF00FF;
+  font-size: 1.7em;
+  letter-spacing: -.02rem;
+  line-height: 1.41;
+  color: #2a303b;
+}
+
+img{
+  width:50%;
+}
+
+.chat{
+  width:200px;
+}
+
+h2 {
+  font-size: 30px;
+}
+
+a{
+  color: grey;
+}
+a:hover {
+  text-decoration: none;
+  color: purple;
+}
+p{
+     font-size: 10px;
+    color:#FFFF;
+}
+
+.first{
+  color:green;
+}
+
+.mydiv{
+
+  border-width: 5px;
+  border-color: red;
+  border-radius: 10px;
+  width:50%;
+
+  /* TOP  RIGHT  BOTTOM COLOR ALPHA */
+  box-shadow: 5px 5px 5px rgba(0,0,0,0.7);
+
+  background-color:#333333;
+
+}
